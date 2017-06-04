@@ -2,4 +2,4 @@ This is a basic calculator web application that was written in HTML, CSS, Javasc
 toggle button which switches the calculator from a basic one to a scientific one.
 
 A live web demo of this application can be found at:
-http://ryansoftwaredevelopment.cu.cc/Stored/WebApplications/cal/
+http://ryansoftwaredevelopment.cu.cc/index.php/web-application?task=weblink.go&id=8
