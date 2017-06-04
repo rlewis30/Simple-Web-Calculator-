@@ -87,6 +87,14 @@ $('#buttonclear').click(function(){
     decimal=false;
 });
 
+//click event for the backspace button
+$('#buttonbackspace').click(function(){
+    let bstring=$('#display').val();
+    let end=bstring.length-1;
+    bstring=bstring.slice(0,end);
+    $('#display').val(bstring);
+});
+
 //this is the event for the addition button
 $('#buttonaddition').click(function(){
     operation="+";

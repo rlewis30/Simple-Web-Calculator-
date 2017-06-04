@@ -34,7 +34,7 @@
                 </tr>
                 <tr>
                     <td><input id="buttonclear" type="button" name="buttonclear" value="C" /></td>
-                    <td><input id="buttonbackspace" type="button" name="buttonbackspace" value="BK"/></td>
+                    <td><input id="buttonbackspace" type="button" name="buttonbackspace" value="B"/></td>
                     <td><input id="buttonnegative" type="button" name="buttonnegative" value="M" /></td>
                 </tr>
             </table>
